@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/next/dist/pages/_error.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\next\\dist\\pages\\_error.js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js":
 /*!*******************************************************************!*\
@@ -3121,10 +3121,10 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./":
-/*!*****************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
-  \*****************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./":
+/*!***********************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
+  \***********************************************************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -3685,14 +3685,14 @@ module.exports = (__webpack_require__(/*! dll-reference dll_ef0ff7c60362f24a921f
 
 /***/ }),
 
-/***/ 2:
-/*!*********************************************************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js ***!
-  \*********************************************************************************************************************************************************************************************/
+/***/ 3:
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js ***!
+  \***************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fnode_modules%2Fnext%2Fdist%2Fpages%2F_error.js!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fnext%2Fdist%2Fpages%2F_error&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Cnode_modules%5Cnext%5Cdist%5Cpages%5C_error.js!./");
 
 
 /***/ }),
@@ -3708,5 +3708,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[3,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=_error.js.map

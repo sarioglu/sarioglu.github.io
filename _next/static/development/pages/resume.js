@@ -1,4 +1,4 @@
-(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/resume.js"],{
+(window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\resume.js"],{
 
 /***/ "./assets/images/bein-connect.svg":
 /*!****************************************!*\
@@ -3666,10 +3666,10 @@ for (var i = 0; i < DOMIterables.length; i++) {
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fresume&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fsrc%2Fpages%2Fresume.tsx!./":
-/*!*********************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fresume&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fsrc%2Fpages%2Fresume.tsx ***!
-  \*********************************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fresume&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Csrc%5Cpages%5Cresume.tsx!./":
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fresume&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Csrc%5Cpages%5Cresume.tsx ***!
+  \***************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -5003,8 +5003,8 @@ module.exports = __webpack_require__(/*! ./dist/style */ "./node_modules/styled-
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _sectionTitle__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./sectionTitle */ "./src/components/resume/sectionTitle.tsx");
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/education.tsx";
+/* harmony import */ var _section_title__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./section-title */ "./src/components/resume/section-title.tsx");
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\education.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -5017,7 +5017,7 @@ var Education = function Education(_ref) {
       lineNumber: 15
     },
     __self: this
-  }, __jsx(_sectionTitle__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  }, __jsx(_section_title__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
@@ -5037,14 +5037,14 @@ var Education = function Education(_ref) {
       },
       __self: this
     }, __jsx("div", {
-      className: "font-medium",
+      className: "text-lg font-medium",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 19
       },
       __self: this
     }, title), __jsx("div", {
-      className: "flex justify-between font-medium mb-1",
+      className: "flex justify-between italic font-medium text-gray-600 mb-1",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 20
@@ -5088,8 +5088,8 @@ var Education = function Education(_ref) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _sectionTitle__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./sectionTitle */ "./src/components/resume/sectionTitle.tsx");
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/experience.tsx";
+/* harmony import */ var _section_title__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./section-title */ "./src/components/resume/section-title.tsx");
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\experience.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -5102,7 +5102,7 @@ var Experience = function Experience(_ref) {
       lineNumber: 15
     },
     __self: this
-  }, __jsx(_sectionTitle__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  }, __jsx(_section_title__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
@@ -5122,14 +5122,14 @@ var Experience = function Experience(_ref) {
       },
       __self: this
     }, __jsx("div", {
-      className: "font-medium",
+      className: "text-lg font-medium",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 19
       },
       __self: this
     }, title), __jsx("div", {
-      className: "flex justify-between font-medium mb-1",
+      className: "flex justify-between italic font-medium text-gray-600 mb-1",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 20
@@ -5173,7 +5173,7 @@ var Experience = function Experience(_ref) {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/footer.tsx";
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\footer.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -5203,8 +5203,8 @@ var Footer = function Footer() {
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _sectionTitle__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./sectionTitle */ "./src/components/resume/sectionTitle.tsx");
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/greeting.tsx";
+/* harmony import */ var _section_title__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./section-title */ "./src/components/resume/section-title.tsx");
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\greeting.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
@@ -5217,7 +5217,7 @@ var Greeting = function Greeting(_ref) {
       lineNumber: 13
     },
     __self: this
-  }, __jsx(_sectionTitle__WEBPACK_IMPORTED_MODULE_1__["default"], {
+  }, __jsx(_section_title__WEBPACK_IMPORTED_MODULE_1__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
@@ -5250,7 +5250,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/header.tsx";
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\header.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -5313,7 +5313,7 @@ Linkedin.defaultProps = {
 var Header = function Header(_ref) {
   var data = _ref.data;
   return __jsx("header", {
-    className: "w-full flex bg-blue-600 p-8",
+    className: "w-full flex bg-blue-600 px-8 py-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 21
@@ -5327,7 +5327,7 @@ var Header = function Header(_ref) {
     },
     __self: this
   }, __jsx("img", {
-    className: "w-56 h-56 -mb-16 rounded-full border-4 border-white shadow bg-blue-600 object-cover object-top",
+    className: "w-48 h-48 -mb-8 rounded-full border-4 border-white shadow bg-blue-600 object-cover object-top",
     src: data.photo,
     alt: "profile picture",
     __source: {
@@ -5343,14 +5343,14 @@ var Header = function Header(_ref) {
     },
     __self: this
   }, __jsx("h1", {
-    className: "text-5xl font-bold leading-none mt-4",
+    className: "text-4xl font-bold leading-none mt-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
     },
     __self: this
   }, data.name), __jsx("h2", {
-    className: "text-3xl font-semibold mb-4",
+    className: "text-2xl font-semibold mb-4",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
@@ -5469,7 +5469,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/page.tsx";
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\page.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
@@ -5478,7 +5478,7 @@ var Page = function Page(props) {
   return __jsx(react__WEBPACK_IMPORTED_MODULE_2___default.a.Fragment, null, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_1___default.a, {
     id: "1878617288",
     __self: this
-  }, "div.jsx-1878617288{page-break-after:always;page-break-inside:avoid;width:210mm;height:297mm;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9zYXJpb2dsdS9EZXNrdG9wL0RldkVudi9yZXN1bWUvc3JjL2NvbXBvbmVudHMvcmVzdW1lL3BhZ2UudHN4Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUlnQixBQUUyQix3QkFDQSx3QkFDWixZQUNDLGFBQ2YiLCJmaWxlIjoiL1VzZXJzL3NhcmlvZ2x1L0Rlc2t0b3AvRGV2RW52L3Jlc3VtZS9zcmMvY29tcG9uZW50cy9yZXN1bWUvcGFnZS50c3giLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QsIHsgRkMgfSBmcm9tIFwicmVhY3RcIjtcblxuY29uc3QgUGFnZTogRkMgPSBwcm9wcyA9PiAoXG4gIDw+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgZGl2IHtcbiAgICAgICAgcGFnZS1icmVhay1hZnRlcjogYWx3YXlzO1xuICAgICAgICBwYWdlLWJyZWFrLWluc2lkZTogYXZvaWQ7XG5cbiAgICAgICAgd2lkdGg6IDIxMG1tO1xuICAgICAgICBoZWlnaHQ6IDI5N21tO1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cblxuICAgIDxkaXZcbiAgICAgIGNsYXNzTmFtZT1cInJlbGF0aXZlIGdyaWQgZ3JpZC1jb2xzLTIgZ2FwLTggcC04IG14LWF1dG8gYmctd2hpdGUgc2hhZG93LWxnIG92ZXJmbG93LWhpZGRlbiBwcmludDptLTAgcHJpbnQ6c2hhZG93LW5vbmVcIlxuICAgICAgey4uLnByb3BzfVxuICAgIC8+XG4gIDwvPlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgUGFnZTtcbiJdfQ== */\n/*@ sourceURL=/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/page.tsx */"), __jsx("div", Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, props, {
+  }, "div.jsx-1878617288{page-break-after:always;page-break-inside:avoid;width:210mm;height:297mm;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcc2FyaW9nbHVcXERlc2t0b3BcXFByb2plbGVyXFxyZXN1bWVcXHNyY1xcY29tcG9uZW50c1xccmVzdW1lXFxwYWdlLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFJZ0IsQUFFMkIsd0JBQ0Esd0JBQ1osWUFDQyxhQUNmIiwiZmlsZSI6IkM6XFxVc2Vyc1xcc2FyaW9nbHVcXERlc2t0b3BcXFByb2plbGVyXFxyZXN1bWVcXHNyY1xcY29tcG9uZW50c1xccmVzdW1lXFxwYWdlLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCwgeyBGQyB9IGZyb20gJ3JlYWN0JztcblxuY29uc3QgUGFnZTogRkMgPSAocHJvcHMpID0+IChcbiAgPD5cbiAgICA8c3R5bGUganN4PntgXG4gICAgICBkaXYge1xuICAgICAgICBwYWdlLWJyZWFrLWFmdGVyOiBhbHdheXM7XG4gICAgICAgIHBhZ2UtYnJlYWstaW5zaWRlOiBhdm9pZDtcblxuICAgICAgICB3aWR0aDogMjEwbW07XG4gICAgICAgIGhlaWdodDogMjk3bW07XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuXG4gICAgPGRpdlxuICAgICAgY2xhc3NOYW1lPVwicmVsYXRpdmUgZ3JpZCBncmlkLWNvbHMtMiBnYXAtOCBwLTggbXgtYXV0byBiZy13aGl0ZSBzaGFkb3ctbGcgb3ZlcmZsb3ctaGlkZGVuIHByaW50Om0tMCBwcmludDpzaGFkb3ctbm9uZVwiXG4gICAgICB7Li4ucHJvcHN9XG4gICAgLz5cbiAgPC8+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBQYWdlO1xuIl19 */\n/*@ sourceURL=C:\\\\Users\\\\sarioglu\\\\Desktop\\\\Projeler\\\\resume\\\\src\\\\components\\\\resume\\\\page.tsx */"), __jsx("div", Object(_babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, props, {
     className: "jsx-1878617288" + " " + (props && props.className != null && props.className || "relative grid grid-cols-2 gap-8 p-8 mx-auto bg-white shadow-lg overflow-hidden print:m-0 print:shadow-none"),
     __source: {
       fileName: _jsxFileName,
@@ -5504,9 +5504,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_corejs2_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @babel/runtime-corejs2/helpers/esm/extends */ "./node_modules/@babel/runtime-corejs2/helpers/esm/extends.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _sectionTitle__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./sectionTitle */ "./src/components/resume/sectionTitle.tsx");
+/* harmony import */ var _section_title__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./section-title */ "./src/components/resume/section-title.tsx");
 
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/projects.tsx";
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\projects.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -5533,7 +5533,7 @@ var Projects = function Projects(_ref) {
       lineNumber: 18
     },
     __self: this
-  }, __jsx(_sectionTitle__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  }, __jsx(_section_title__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
@@ -5548,27 +5548,41 @@ var Projects = function Projects(_ref) {
   }, data.map(function (project) {
     return __jsx("li", {
       key: project.name,
-      className: "mx-4 my-3 h-6 flex",
+      className: "mx-4 my-2",
       __source: {
         fileName: _jsxFileName,
         lineNumber: 22
+      },
+      __self: this
+    }, __jsx("div", {
+      className: "h-6 flex",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 23
       },
       __self: this
     }, __jsx(Check, {
       className: "h-full text-green-600",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 23
+        lineNumber: 24
       },
       __self: this
     }), __jsx("span", {
       className: "flex-1 ml-4",
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 24
+        lineNumber: 25
       },
       __self: this
-    }, project.name));
+    }, project.name)), __jsx("div", {
+      className: "ml-10 text-sm italic font-medium text-gray-600",
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 27
+      },
+      __self: this
+    }, project.keywords.join(', ')));
   })));
 };
 
@@ -5576,10 +5590,10 @@ var Projects = function Projects(_ref) {
 
 /***/ }),
 
-/***/ "./src/components/resume/sectionTitle.tsx":
-/*!************************************************!*\
-  !*** ./src/components/resume/sectionTitle.tsx ***!
-  \************************************************/
+/***/ "./src/components/resume/section-title.tsx":
+/*!*************************************************!*\
+  !*** ./src/components/resume/section-title.tsx ***!
+  \*************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -5589,7 +5603,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/sectionTitle.tsx";
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\section-title.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 
@@ -5623,10 +5637,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _babel_runtime_corejs2_core_js_object_entries__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_babel_runtime_corejs2_core_js_object_entries__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_2__);
-/* harmony import */ var _sectionTitle__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./sectionTitle */ "./src/components/resume/sectionTitle.tsx");
+/* harmony import */ var _section_title__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./section-title */ "./src/components/resume/section-title.tsx");
 
 
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/components/resume/skills.tsx";
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\components\\resume\\skills.tsx";
 var __jsx = react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement;
 
 
@@ -5639,7 +5653,7 @@ var Skills = function Skills(_ref) {
       lineNumber: 10
     },
     __self: this
-  }, __jsx(_sectionTitle__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, __jsx(_section_title__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
@@ -5714,7 +5728,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_resume_skills__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../components/resume/skills */ "./src/components/resume/skills.tsx");
 /* harmony import */ var _components_resume_projects__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../components/resume/projects */ "./src/components/resume/projects.tsx");
 /* harmony import */ var _data_resume__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../../data/resume */ "./data/resume.ts");
-var _jsxFileName = "/Users/sarioglu/Desktop/DevEnv/resume/src/pages/resume.tsx";
+var _jsxFileName = "C:\\Users\\sarioglu\\Desktop\\Projeler\\resume\\src\\pages\\resume.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -5731,146 +5745,139 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 var Resume = function Resume() {
   return __jsx("div", {
-    className: "jsx-874395146" + " " + "min-w-full min-h-screen py-16 print:p-0 bg-gray-200",
+    className: "jsx-3555376630" + " " + "min-w-full min-h-screen py-16 print:p-0 bg-gray-200",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
     },
     __self: this
   }, __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "874395146",
+    id: "3555376630",
     __self: this
-  }, "html{font-size:12px;font-family:\"Ubuntu\",sans-serif;-webkit-print-color-adjust:exact;color-adjust:exact;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9zYXJpb2dsdS9EZXNrdG9wL0RldkVudi9yZXN1bWUvc3JjL3BhZ2VzL3Jlc3VtZS50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBaUJ1QixBQUVrQixlQUNrQixnQ0FDQSxpQ0FDTixtQkFDN0IiLCJmaWxlIjoiL1VzZXJzL3NhcmlvZ2x1L0Rlc2t0b3AvRGV2RW52L3Jlc3VtZS9zcmMvcGFnZXMvcmVzdW1lLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCB7IE5leHRQYWdlIH0gZnJvbSBcIm5leHRcIjtcbmltcG9ydCBIZWFkIGZyb20gXCJuZXh0L2hlYWRcIjtcblxuaW1wb3J0IFBhZ2UgZnJvbSBcIi4uL2NvbXBvbmVudHMvcmVzdW1lL3BhZ2VcIjtcbmltcG9ydCBIZWFkZXIgZnJvbSBcIi4uL2NvbXBvbmVudHMvcmVzdW1lL2hlYWRlclwiO1xuaW1wb3J0IEZvb3RlciBmcm9tIFwiLi4vY29tcG9uZW50cy9yZXN1bWUvZm9vdGVyXCI7XG5pbXBvcnQgR3JlZXRpbmcgZnJvbSBcIi4uL2NvbXBvbmVudHMvcmVzdW1lL2dyZWV0aW5nXCI7XG5pbXBvcnQgRXhwZXJpZW5jZSBmcm9tIFwiLi4vY29tcG9uZW50cy9yZXN1bWUvZXhwZXJpZW5jZVwiO1xuaW1wb3J0IEVkdWNhdGlvbiBmcm9tIFwiLi4vY29tcG9uZW50cy9yZXN1bWUvZWR1Y2F0aW9uXCI7XG5pbXBvcnQgU2tpbGxzIGZyb20gXCIuLi9jb21wb25lbnRzL3Jlc3VtZS9za2lsbHNcIjtcbmltcG9ydCBQcm9qZWN0cyBmcm9tIFwiLi4vY29tcG9uZW50cy9yZXN1bWUvcHJvamVjdHNcIjtcblxuaW1wb3J0IGRhdGEgZnJvbSBcIi4uLy4uL2RhdGEvcmVzdW1lXCI7XG5cbmNvbnN0IFJlc3VtZTogTmV4dFBhZ2UgPSAoKSA9PiAoXG4gIDxkaXYgY2xhc3NOYW1lPVwibWluLXctZnVsbCBtaW4taC1zY3JlZW4gcHktMTYgcHJpbnQ6cC0wIGJnLWdyYXktMjAwXCI+XG4gICAgPHN0eWxlIGdsb2JhbCBqc3g+e2BcbiAgICAgIGh0bWwge1xuICAgICAgICBmb250LXNpemU6IDEycHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiBcIlVidW50dVwiLCBzYW5zLXNlcmlmO1xuICAgICAgICBjb2xvci1hZGp1c3Q6IGV4YWN0O1xuICAgICAgfVxuICAgIGB9PC9zdHlsZT5cblxuICAgIDxIZWFkPlxuICAgICAgPHRpdGxlPntkYXRhLnBlcnNvbmFsLm5hbWV9PC90aXRsZT5cbiAgICA8L0hlYWQ+XG5cbiAgICA8ZGl2PlxuICAgICAgPFBhZ2U+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLXNwYW4tMiAtbS04IC1tYi0xNlwiPlxuICAgICAgICAgIDxIZWFkZXIgZGF0YT17ZGF0YS5wZXJzb25hbH0gLz5cbiAgICAgICAgPC9kaXY+XG5cbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJncmlkLXN0YXJ0LTEgbXQtMTZcIj5cbiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImdyaWQgcm93LWdhcC00XCI+XG4gICAgICAgICAgICA8R3JlZXRpbmcgZGF0YT17ZGF0YS5ncmVldGluZ30gLz5cbiAgICAgICAgICAgIDxFeHBlcmllbmNlIGRhdGE9e2RhdGEuZXhwZXJpZW5jZX0gLz5cbiAgICAgICAgICAgIDxQcm9qZWN0cyBkYXRhPXtkYXRhLnByb2plY3RzfSAvPlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImdyaWQtc3RhcnQtMiBtdC0xNlwiPlxuICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZ3JpZCByb3ctZ2FwLTRcIj5cbiAgICAgICAgICAgIDxFZHVjYXRpb24gZGF0YT17ZGF0YS5lZHVjYXRpb259IC8+XG4gICAgICAgICAgICA8U2tpbGxzIGRhdGE9e2RhdGEuc2tpbGxzfSAvPlxuICAgICAgICAgIDwvZGl2PlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC1zcGFuLTIgLW0tOFwiPlxuICAgICAgICAgIDxGb290ZXIgLz5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L1BhZ2U+XG4gICAgPC9kaXY+XG4gIDwvZGl2PlxuKTtcblxuZXhwb3J0IGRlZmF1bHQgUmVzdW1lO1xuIl19 */\n/*@ sourceURL=/Users/sarioglu/Desktop/DevEnv/resume/src/pages/resume.tsx */"), __jsx(next_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
+  }, "html{font-size:12px;font-family:'Ubuntu',sans-serif;-webkit-print-color-adjust:exact;color-adjust:exact;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcc2FyaW9nbHVcXERlc2t0b3BcXFByb2plbGVyXFxyZXN1bWVcXHNyY1xccGFnZXNcXHJlc3VtZS50c3giXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBaUJ1QixBQUVrQixlQUNrQixnQ0FDQSxpQ0FDTixtQkFDN0IiLCJmaWxlIjoiQzpcXFVzZXJzXFxzYXJpb2dsdVxcRGVza3RvcFxcUHJvamVsZXJcXHJlc3VtZVxcc3JjXFxwYWdlc1xccmVzdW1lLnRzeCIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tICdyZWFjdCc7XG5pbXBvcnQgeyBOZXh0UGFnZSB9IGZyb20gJ25leHQnO1xuaW1wb3J0IEhlYWQgZnJvbSAnbmV4dC9oZWFkJztcblxuaW1wb3J0IFBhZ2UgZnJvbSAnLi4vY29tcG9uZW50cy9yZXN1bWUvcGFnZSc7XG5pbXBvcnQgSGVhZGVyIGZyb20gJy4uL2NvbXBvbmVudHMvcmVzdW1lL2hlYWRlcic7XG5pbXBvcnQgRm9vdGVyIGZyb20gJy4uL2NvbXBvbmVudHMvcmVzdW1lL2Zvb3Rlcic7XG5pbXBvcnQgR3JlZXRpbmcgZnJvbSAnLi4vY29tcG9uZW50cy9yZXN1bWUvZ3JlZXRpbmcnO1xuaW1wb3J0IEV4cGVyaWVuY2UgZnJvbSAnLi4vY29tcG9uZW50cy9yZXN1bWUvZXhwZXJpZW5jZSc7XG5pbXBvcnQgRWR1Y2F0aW9uIGZyb20gJy4uL2NvbXBvbmVudHMvcmVzdW1lL2VkdWNhdGlvbic7XG5pbXBvcnQgU2tpbGxzIGZyb20gJy4uL2NvbXBvbmVudHMvcmVzdW1lL3NraWxscyc7XG5pbXBvcnQgUHJvamVjdHMgZnJvbSAnLi4vY29tcG9uZW50cy9yZXN1bWUvcHJvamVjdHMnO1xuXG5pbXBvcnQgZGF0YSBmcm9tICcuLi8uLi9kYXRhL3Jlc3VtZSc7XG5cbmNvbnN0IFJlc3VtZTogTmV4dFBhZ2UgPSAoKSA9PiAoXG4gIDxkaXYgY2xhc3NOYW1lPVwibWluLXctZnVsbCBtaW4taC1zY3JlZW4gcHktMTYgcHJpbnQ6cC0wIGJnLWdyYXktMjAwXCI+XG4gICAgPHN0eWxlIGdsb2JhbCBqc3g+e2BcbiAgICAgIGh0bWwge1xuICAgICAgICBmb250LXNpemU6IDEycHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiAnVWJ1bnR1Jywgc2Fucy1zZXJpZjtcbiAgICAgICAgY29sb3ItYWRqdXN0OiBleGFjdDtcbiAgICAgIH1cbiAgICBgfTwvc3R5bGU+XG5cbiAgICA8SGVhZD5cbiAgICAgIDx0aXRsZT57ZGF0YS5wZXJzb25hbC5uYW1lfTwvdGl0bGU+XG4gICAgPC9IZWFkPlxuXG4gICAgPFBhZ2U+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbC1zcGFuLTIgLW0tOFwiPlxuICAgICAgICA8SGVhZGVyIGRhdGE9e2RhdGEucGVyc29uYWx9IC8+XG4gICAgICA8L2Rpdj5cblxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJncmlkLXN0YXJ0LTEgbXQtOFwiPlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImdyaWQgcm93LWdhcC00XCI+XG4gICAgICAgICAgPEdyZWV0aW5nIGRhdGE9e2RhdGEuZ3JlZXRpbmd9IC8+XG4gICAgICAgICAgPEV4cGVyaWVuY2UgZGF0YT17ZGF0YS5leHBlcmllbmNlfSAvPlxuICAgICAgICAgIDxQcm9qZWN0cyBkYXRhPXtkYXRhLnByb2plY3RzfSAvPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuXG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImdyaWQtc3RhcnQtMiBtdC04XCI+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiZ3JpZCByb3ctZ2FwLTRcIj5cbiAgICAgICAgICA8RWR1Y2F0aW9uIGRhdGE9e2RhdGEuZWR1Y2F0aW9ufSAvPlxuICAgICAgICAgIDxTa2lsbHMgZGF0YT17ZGF0YS5za2lsbHN9IC8+XG4gICAgICAgIDwvZGl2PlxuICAgICAgPC9kaXY+XG5cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiY29sLXNwYW4tMiAtbS04XCI+XG4gICAgICAgIDxGb290ZXIgLz5cbiAgICAgIDwvZGl2PlxuICAgIDwvUGFnZT5cbiAgPC9kaXY+XG4pO1xuXG5leHBvcnQgZGVmYXVsdCBSZXN1bWU7XG4iXX0= */\n/*@ sourceURL=C:\\\\Users\\\\sarioglu\\\\Desktop\\\\Projeler\\\\resume\\\\src\\\\pages\\\\resume.tsx */"), __jsx(next_head__WEBPACK_IMPORTED_MODULE_2___default.a, {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
     },
     __self: this
   }, __jsx("title", {
-    className: "jsx-874395146",
+    className: "jsx-3555376630",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 27
     },
     __self: this
-  }, _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].personal.name)), __jsx("div", {
-    className: "jsx-874395146",
+  }, _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].personal.name)), __jsx(_components_resume_page__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30
     },
     __self: this
-  }, __jsx(_components_resume_page__WEBPACK_IMPORTED_MODULE_3__["default"], {
+  }, __jsx("div", {
+    className: "jsx-3555376630" + " " + "col-span-2 -m-8",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
-    },
-    __self: this
-  }, __jsx("div", {
-    className: "jsx-874395146" + " " + "col-span-2 -m-8 -mb-16",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 32
     },
     __self: this
   }, __jsx(_components_resume_header__WEBPACK_IMPORTED_MODULE_4__["default"], {
     data: _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].personal,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 32
     },
     __self: this
   })), __jsx("div", {
-    className: "jsx-874395146" + " " + "grid-start-1 mt-16",
+    className: "jsx-3555376630" + " " + "grid-start-1 mt-8",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36
+      lineNumber: 35
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-874395146" + " " + "grid row-gap-4",
+    className: "jsx-3555376630" + " " + "grid row-gap-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37
+      lineNumber: 36
     },
     __self: this
   }, __jsx(_components_resume_greeting__WEBPACK_IMPORTED_MODULE_6__["default"], {
     data: _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].greeting,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38
+      lineNumber: 37
     },
     __self: this
   }), __jsx(_components_resume_experience__WEBPACK_IMPORTED_MODULE_7__["default"], {
     data: _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].experience,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39
+      lineNumber: 38
     },
     __self: this
   }), __jsx(_components_resume_projects__WEBPACK_IMPORTED_MODULE_10__["default"], {
     data: _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].projects,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 40
+      lineNumber: 39
     },
     __self: this
   }))), __jsx("div", {
-    className: "jsx-874395146" + " " + "grid-start-2 mt-16",
+    className: "jsx-3555376630" + " " + "grid-start-2 mt-8",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 44
+      lineNumber: 43
     },
     __self: this
   }, __jsx("div", {
-    className: "jsx-874395146" + " " + "grid row-gap-4",
+    className: "jsx-3555376630" + " " + "grid row-gap-4",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 45
+      lineNumber: 44
     },
     __self: this
   }, __jsx(_components_resume_education__WEBPACK_IMPORTED_MODULE_8__["default"], {
     data: _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].education,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46
+      lineNumber: 45
     },
     __self: this
   }), __jsx(_components_resume_skills__WEBPACK_IMPORTED_MODULE_9__["default"], {
     data: _data_resume__WEBPACK_IMPORTED_MODULE_11__["default"].skills,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 47
+      lineNumber: 46
     },
     __self: this
   }))), __jsx("div", {
-    className: "jsx-874395146" + " " + "col-span-2 -m-8",
+    className: "jsx-3555376630" + " " + "col-span-2 -m-8",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51
+      lineNumber: 50
     },
     __self: this
   }, __jsx(_components_resume_footer__WEBPACK_IMPORTED_MODULE_5__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52
+      lineNumber: 51
     },
     __self: this
-  })))));
+  }))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Resume);
 
 /***/ }),
 
-/***/ 1:
-/*!*************************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2Fresume&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fsrc%2Fpages%2Fresume.tsx ***!
-  \*************************************************************************************************************************************************/
+/***/ 2:
+/*!*******************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2Fresume&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Csrc%5Cpages%5Cresume.tsx ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fresume&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fsrc%2Fpages%2Fresume.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fresume&absolutePagePath=%2FUsers%2Fsarioglu%2FDesktop%2FDevEnv%2Fresume%2Fsrc%2Fpages%2Fresume.tsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2Fresume&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Csrc%5Cpages%5Cresume.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fresume&absolutePagePath=C%3A%5CUsers%5Csarioglu%5CDesktop%5CProjeler%5Cresume%5Csrc%5Cpages%5Cresume.tsx!./");
 
 
 /***/ }),
@@ -5886,5 +5893,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=resume.js.map
